@@ -36,9 +36,14 @@ This project is a simple web application that allows users to create a shopping 
 
 ## Project View
 
-![image](https://github.com/user-attachments/assets/2993ef4f-edd1-48e6-9911-d93f5631fda8)
-![image](https://github.com/user-attachments/assets/62ed7639-f5b7-4c0e-9198-28995433440f)
-![image](https://github.com/user-attachments/assets/efc515e2-3193-4a7b-8d60-c9caed017029)
+![image](https://github.com/user-attachments/assets/9668cad7-33c0-4e49-b468-8a2ac96232c5)
+
+![image](https://github.com/user-attachments/assets/d9988276-3be1-485e-9bcf-9ef20956e556)
+
+![image](https://github.com/user-attachments/assets/db4c1103-dbe8-46f8-b6bd-643f1c84cd83)
+
+![image](https://github.com/user-attachments/assets/4d11a904-08a3-4507-96f0-8c899e462a59)
+
 
 
 
