@@ -195,7 +195,7 @@ function filterItems(filterType) {
         if(filterType == "completed") {
             // tamamlananları göster
             li.classList.toggle(item_completed ? "d-flex":"d-none");
-        } else if(filterType == "incomplete") {
+        } else if(filterType == "incompleted") {
             // tamamlanmayanları göster
             li.classList.toggle(item_completed ? "d-none":"d-flex");
         } else {
