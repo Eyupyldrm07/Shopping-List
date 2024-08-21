@@ -24,3 +24,26 @@
     text-decoration: line-through;
     color: rgb(153, 153, 153);
 }
+/* Mobil görünüm için medya sorgusu */
+@media (max-width: 768px) {
+    .shopping-list li{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .shopping-list li .item-name{
+        flex: none;
+        padding: 8px 10px;
+        font-size: 18px; /* Mobilde daha büyük yazı boyutu */
+    }
+
+    .shopping-list li .delete-icon{
+        font-size: 25px !important; /* Mobilde biraz daha küçük */
+    }
+
+    .shopping-list li:hover .delete-icon{
+        transform: scale(1.2); /* Mobilde ikona biraz daha belirginlik katmak */
+    }
+}
